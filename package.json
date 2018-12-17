@@ -6,6 +6,8 @@
   "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^16.2.0"
+    "@octokit/rest": "^16.2.0",
+    "inquirer": "^6.2.1",
+    "p-map": "^2.0.0"
   }
 }
