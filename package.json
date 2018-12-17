@@ -4,5 +4,8 @@
   "description": "Syncs a GitHub team repo list with the org repo list",
   "main": "index.js",
   "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^16.2.0"
+  }
 }
